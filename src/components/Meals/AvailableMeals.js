@@ -27,6 +27,12 @@ const DUMMY_MEALS = [
     description: 'Healthy...and green...',
     price: 18.99,
   },
+  {
+    id: 'm5',
+    name: 'Chole Bhature',
+    description: 'Healthy...and tasty...',
+    price: 10.99,
+  },
 ];
 
 const AvailableMeals = () => {
